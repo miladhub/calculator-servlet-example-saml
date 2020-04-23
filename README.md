@@ -16,7 +16,7 @@ Start it:
 Build & deploy
 ===
 
-   mvn clean install && cp target/mycalcwebapp.war ~/apache-tomcat-9.0.34/webapps/
+    mvn clean install && cp target/mycalcwebapp.war ~/apache-tomcat-9.0.34/webapps/
 
 Accessing the app
 ===
